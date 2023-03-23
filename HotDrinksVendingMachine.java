@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-// создание класса автомата горячих напитков
 public class HotDrinksVendingMachine implements VendingMachines {
     private List<HotDrink> hotDrinks;
 
